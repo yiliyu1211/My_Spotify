@@ -28,23 +28,23 @@ I focus on studying the features (Dancibility, Liveness, Loundness) in the songs
 
 **Spotify music features:**
 
-acousticness — how acoustic
+acousticness: how acoustic
 
-danceability — self-explanatory
+danceability: self-explanatory
 
-energy — how 'fast, loud an noisy'
+energy: how 'fast, loud an noisy'
 
-instrumentalness — the less vocals, the higher
+instrumentalness: the less vocals, the higher
 
-liveness — whether there is audience in the recording
+liveness: whether there is audience in the recording
 
-loudness — self-explanatory
+loudness: self-explanatory
 
-speechiness — the more spoken words, the higher
+speechiness: the more spoken words, the higher
 
-valence — whether the track sounds happy or sad
+valence: whether the track sounds happy or sad
 
-tempo — the bpm
+tempo: the bpm
 
 ------
 
