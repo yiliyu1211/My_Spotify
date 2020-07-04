@@ -21,3 +21,7 @@ I listened to music on Spotify although not very frequently, but I am still curi
 -- Python data cleaning and extracting
 
 -- Tableau Dashboard
+
+**Dashboard**
+
+[dashboard](mysp)
