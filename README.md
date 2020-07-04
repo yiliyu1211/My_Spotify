@@ -52,9 +52,9 @@ tempo: the bpm
 
 **Dashboard**
 
-Public Tableau dashboard: ![dashboard](myspotify/myspotify.png)
+![dashboard](myspotify/myspotify.png)
 
-[Tableau Public link](https://public.tableau.com/profile/yili.yu#!/vizhome/Book1_15938422650700/Dashboard2?publish=yes)
+Public Tableau dashboard: [Tableau Public link](https://public.tableau.com/profile/yili.yu#!/vizhome/Book1_15938422650700/Dashboard2?publish=yes)
 
 Very welcome for further discussions and any advice!
 
