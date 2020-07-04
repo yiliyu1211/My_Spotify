@@ -26,6 +26,26 @@ I listened to music on Spotify although not very frequently, but I am still curi
 
 I focus on studying the features (Dancibility, Liveness, Loundness) in the songs and the artist, which can imply what category of songs you tend to listen more. Also from my dashboard, you can look into the records in every month and probably find out some songs that you listened a lot in that period but you didn't keep listening them. It helps me retrieve my fav songs that accidentally lost in my records!
 
+**Spotify music features:**
+
+acousticness — how acoustic
+
+danceability — self-explanatory
+
+energy — how 'fast, loud an noisy'
+
+instrumentalness — the less vocals, the higher
+
+liveness — whether there is audience in the recording
+
+loudness — self-explanatory
+
+speechiness — the more spoken words, the higher
+
+valence — whether the track sounds happy or sad
+
+tempo — the bpm
+
 ------
 
 **Dashboard**
