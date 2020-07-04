@@ -24,4 +24,4 @@ I listened to music on Spotify although not very frequently, but I am still curi
 
 **Dashboard**
 
-[dashboard](mysp)
+[dashboard](My_Spotify/myspotify/myspotify.png)
