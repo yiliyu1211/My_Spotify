@@ -26,6 +26,8 @@ I listened to music on Spotify although not very frequently, but I am still curi
 
 I focus on studying the features (Dancibility, Liveness, Loundness) in the songs and the artist, which can imply what category of songs you tend to listen more. Also from the history record, you can look into every month and probably find out some songs that you listened a lot in that period but you didn't keep listening them. It helps me retrieve my fav songs that accidentally lost in my records!
 
+------
+
 **Dashboard**
 
 ![dashboard](myspotify/myspotify.png)
