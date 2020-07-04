@@ -52,11 +52,11 @@ tempo: the bpm
 
 **Dashboard**
 
-![dashboard](myspotify/myspotify.png)
+Public Tableau dashboard: ![dashboard](myspotify/myspotify.png)
 
 [Tableau Public link](https://public.tableau.com/profile/yili.yu#!/vizhome/Book1_15938422650700/Dashboard2?publish=yes)
 
-Very welcome for further discussions!
+Very welcome for further discussions and any advice!
 
 E-mail: td821211@gmail.com
 
