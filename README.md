@@ -25,3 +25,5 @@ I listened to music on Spotify although not very frequently, but I am still curi
 **Dashboard**
 
 ![dashboard](myspotify/myspotify.png)
+
+[Tableau Public link](https://public.tableau.com/profile/yili.yu#!/vizhome/Book1_15938422650700/Dashboard2?publish=yes)
